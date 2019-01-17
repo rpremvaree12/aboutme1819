@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  /* padding: 0; */
+
+}
+img {
+  display: flex;
+  max-width: 100%;
+}
+
+#facts{
+  display: flex;
+  justify-content: center;
+}
+
+#forged, #cats{
+  width: 50%;
+
+}
